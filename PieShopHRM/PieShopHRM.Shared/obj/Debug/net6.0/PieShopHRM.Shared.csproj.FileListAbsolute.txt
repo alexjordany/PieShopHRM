@@ -1,0 +1,12 @@
+/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.Shared/bin/Debug/net6.0/PieShopHRM.Shared.deps.json
+/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.Shared/bin/Debug/net6.0/PieShopHRM.Shared.dll
+/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.Shared/bin/Debug/net6.0/PieShopHRM.Shared.pdb
+/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.Shared/obj/Debug/net6.0/PieShopHRM.Shared.csproj.AssemblyReference.cache
+/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.Shared/obj/Debug/net6.0/PieShopHRM.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.Shared/obj/Debug/net6.0/PieShopHRM.Shared.AssemblyInfoInputs.cache
+/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.Shared/obj/Debug/net6.0/PieShopHRM.Shared.AssemblyInfo.cs
+/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.Shared/obj/Debug/net6.0/PieShopHRM.Shared.csproj.CoreCompileInputs.cache
+/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.Shared/obj/Debug/net6.0/PieShopHRM.Shared.dll
+/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.Shared/obj/Debug/net6.0/refint/PieShopHRM.Shared.dll
+/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.Shared/obj/Debug/net6.0/PieShopHRM.Shared.pdb
+/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.Shared/obj/Debug/net6.0/ref/PieShopHRM.Shared.dll

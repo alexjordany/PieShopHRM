@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PieShopHRM.App", "PieShopHRM.App\PieShopHRM.App.csproj", "{464731B0-E6FF-497D-9931-4B6AE1E5C6D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PieShopHRM.Shared", "PieShopHRM.Shared\PieShopHRM.Shared.csproj", "{61D2CFEA-3F5E-4AB9-AD5B-21A61A5709E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{464731B0-E6FF-497D-9931-4B6AE1E5C6D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{464731B0-E6FF-497D-9931-4B6AE1E5C6D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{464731B0-E6FF-497D-9931-4B6AE1E5C6D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{464731B0-E6FF-497D-9931-4B6AE1E5C6D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61D2CFEA-3F5E-4AB9-AD5B-21A61A5709E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61D2CFEA-3F5E-4AB9-AD5B-21A61A5709E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61D2CFEA-3F5E-4AB9-AD5B-21A61A5709E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61D2CFEA-3F5E-4AB9-AD5B-21A61A5709E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB6DE52C-AF7F-47B5-861A-D1C66B476A72}
+	EndGlobalSection
+EndGlobal
