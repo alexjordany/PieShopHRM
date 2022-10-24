@@ -1,3 +1,9 @@
+/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/obj/Debug/net6.0/PieShopHRM.App.csproj.AssemblyReference.cache
+/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/obj/Debug/net6.0/PieShopHRM.App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/obj/Debug/net6.0/PieShopHRM.App.AssemblyInfoInputs.cache
+/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/obj/Debug/net6.0/PieShopHRM.App.AssemblyInfo.cs
+/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/obj/Debug/net6.0/PieShopHRM.App.csproj.CoreCompileInputs.cache
+/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/obj/Debug/net6.0/PieShopHRM.App.MvcApplicationPartsAssemblyInfo.cache
 /Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/bin/Debug/net6.0/wwwroot/_framework/blazor.boot.json
 /Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/bin/Debug/net6.0/wwwroot/_framework/blazor.webassembly.js
 /Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/bin/Debug/net6.0/wwwroot/_framework/dotnet.6.0.9.s2ane4clbt.js
@@ -401,6 +407,7 @@
 /Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/bin/Debug/net6.0/wwwroot/_framework/System.Text.Encoding.Extensions.dll.gz
 /Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/bin/Debug/net6.0/wwwroot/_framework/System.Diagnostics.FileVersionInfo.dll.gz
 /Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/bin/Debug/net6.0/wwwroot/_framework/System.Security.SecureString.dll.gz
+/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/bin/Debug/net6.0/libman.json
 /Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/bin/Debug/net6.0/PieShopHRM.App.staticwebassets.runtime.json
 /Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/bin/Debug/net6.0/PieShopHRM.App.dll
 /Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/bin/Debug/net6.0/PieShopHRM.App.pdb
@@ -602,12 +609,6 @@
 /Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/bin/Debug/net6.0/icudt_no_CJK.dat
 /Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/bin/Debug/net6.0/PieShopHRM.Shared.dll
 /Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/bin/Debug/net6.0/PieShopHRM.Shared.pdb
-/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/obj/Debug/net6.0/PieShopHRM.App.csproj.AssemblyReference.cache
-/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/obj/Debug/net6.0/PieShopHRM.App.GeneratedMSBuildEditorConfig.editorconfig
-/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/obj/Debug/net6.0/PieShopHRM.App.AssemblyInfoInputs.cache
-/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/obj/Debug/net6.0/PieShopHRM.App.AssemblyInfo.cs
-/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/obj/Debug/net6.0/PieShopHRM.App.csproj.CoreCompileInputs.cache
-/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/obj/Debug/net6.0/PieShopHRM.App.MvcApplicationPartsAssemblyInfo.cache
 /Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/obj/Debug/net6.0/build-gz/0ZK7ZzQF.gz
 /Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/obj/Debug/net6.0/build-gz/clKe94eH.gz
 /Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/obj/Debug/net6.0/build-gz/+vrJH41+.gz

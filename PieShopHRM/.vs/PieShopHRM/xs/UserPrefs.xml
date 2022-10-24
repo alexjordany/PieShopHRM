@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{464731B0-E6FF-497D-9931-4B6AE1E5C6D9}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PieShopHRM.App/Shared/MainLayout.razor">
+    <Files>
+      <File FileName="PieShopHRM.App/Pages/EmployeeOverview.razor" Line="31" Column="9" />
+      <File FileName="PieShopHRM.App/wwwroot/css/app.css" Line="12455" Column="16" />
+      <File FileName="PieShopHRM.App/App.razor" Line="8" Column="48" />
+      <File FileName="PieShopHRM.App/Shared/MainLayout.razor" Line="37" Column="9" />
+      <File FileName="PieShopHRM.App/Shared/NavMenu.razor" Line="14" Column="7" />
+      <File FileName="PieShopHRM.App/Shared/SurveyPrompt.razor" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PieShopHRM" expanded="True">
+            <Node name="PieShopHRM.App" expanded="True">
+              <Node name="Shared" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="sample-data" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PieShopHRM.App PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

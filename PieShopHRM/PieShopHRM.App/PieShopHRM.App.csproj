@@ -4,6 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>14a4ad4d-4c7c-461c-996c-bb30478278a1</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
@@ -18,8 +19,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Remove="Models\" />
+    <None Remove="Components\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
+    <Folder Include="Components\" />
   </ItemGroup>
 </Project>
