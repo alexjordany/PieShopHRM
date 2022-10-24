@@ -197,14 +197,14 @@
       "netstandard.dll": "sha256-+SGdnDhVMiZ9hq0EsYwJ+mcK0odf3bAtXnSKLorGDCs=",
       "System.Private.CoreLib.dll": "sha256-mqfalNg3wC8XHlyA+j5ioNcnc0kt4prNudKdyJoaYaU=",
       "PieShopHRM.Shared.dll": "sha256-AAdFHtGG3agUrQmpvR+4BXgfkqoZX\/nVTj8r9+rijpQ=",
-      "PieShopHRM.App.dll": "sha256-TtnmIa49DoHxmPhidCY2ccbS7O5iL+VBNVcstwGNJqI="
+      "PieShopHRM.App.dll": "sha256-V\/K6A1a69KwaYEum2MtBR2fe53N0XjZsHNnL0P14NIU="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "PieShopHRM.Shared.pdb": "sha256-kQ70qwebZri4tm80Dxoxjx5c6VjoHU1KOj8wViRA2TQ=",
-      "PieShopHRM.App.pdb": "sha256-N4MdaiEjOZSApbF01VTAmYznrCUu3wgG2vKPfWD38KQ="
+      "PieShopHRM.App.pdb": "sha256-PTJyOPIeBU+G7385age4djnVyRyJWqZtIMIFGH2sans="
     },
     "runtime": {
       "dotnet.6.0.9.s2ane4clbt.js": "sha256-Azk5sbYFVo84h8NpIst9roIPGLH2y8ewQ9SY\/sUHvgs=",
