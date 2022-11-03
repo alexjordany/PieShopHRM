@@ -1,24 +1,18 @@
-﻿<Properties StartupConfiguration="{464731B0-E6FF-497D-9931-4B6AE1E5C6D9}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="PieShopHRM.App/Shared/MainLayout.razor">
+﻿<Properties StartupConfiguration="{7FB8A0CB-1063-4FCC-9C71-4840A23E0F0E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PieShopHRM.App/Program.cs">
     <Files>
-      <File FileName="PieShopHRM.App/Pages/EmployeeOverview.razor" Line="31" Column="9" />
-      <File FileName="PieShopHRM.App/wwwroot/css/app.css" Line="12455" Column="16" />
-      <File FileName="PieShopHRM.App/App.razor" Line="8" Column="48" />
-      <File FileName="PieShopHRM.App/Shared/MainLayout.razor" Line="37" Column="9" />
-      <File FileName="PieShopHRM.App/Shared/NavMenu.razor" Line="14" Column="7" />
-      <File FileName="PieShopHRM.App/Shared/SurveyPrompt.razor" Line="1" Column="1" />
+      <File FileName="BethanysPieShopHRM.Api/appsettings.json" Line="1" Column="2" />
+      <File FileName="BethanysPieShopHRM.Api/Program.cs" Line="30" Column="27" />
+      <File FileName="BethanysPieShopHRM.Api/Models/AppDbContext.cs" Line="1" Column="1" />
+      <File FileName="BethanysPieShopHRM.Api/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="PieShopHRM.App/Program.cs" Line="16" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="PieShopHRM" expanded="True">
             <Node name="PieShopHRM.App" expanded="True">
-              <Node name="Shared" expanded="True" />
-              <Node name="wwwroot" expanded="True">
-                <Node name="sample-data" expanded="True" />
-              </Node>
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -28,9 +22,12 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.PieShopHRM.App PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BethanysPieShopHRM.Api PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
