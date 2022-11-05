@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2j+im69qCcUtimadm29Yse/RDn568ze+EHxG2x93Z3Y=",
+  "Hash": "dQ4OtsX9sVpSRQAMPhpDZT2fxpEZDgLoxlX5NKQhgrU=",
   "Source": "BethanysPieShopHRM.Api",
   "BasePath": "_content/BethanysPieShopHRM.Api",
   "Mode": "Default",
@@ -493,6 +493,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/alexparrales/.nuget/packages/microsoft.extensions.filesystemglobbing/6.0.0/lib/net6.0/Microsoft.Extensions.FileSystemGlobbing.dll"
+    },
+    {
+      "Identity": "/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.Http.dll",
+      "SourceId": "PieShopHRM.App",
+      "SourceType": "Project",
+      "ContentRoot": "/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/bin/Debug/net6.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Http.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/alexparrales/.nuget/packages/microsoft.extensions.http/6.0.0/lib/netstandard2.0/Microsoft.Extensions.Http.dll"
     },
     {
       "Identity": "/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.Logging.Abstractions.dll",
@@ -4794,6 +4811,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/bin/Debug/net6.0/wwwroot/_framework/System.Private.CoreLib.dll"
+    },
+    {
+      "Identity": "/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/obj/Debug/net6.0/build-gz/eylQtLEP.gz",
+      "SourceId": "PieShopHRM.App",
+      "SourceType": "Project",
+      "ContentRoot": "/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/bin/Debug/net6.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Http.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.Http.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.Http.dll"
     },
     {
       "Identity": "/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/obj/Debug/net6.0/build-gz/EZp6Ozx5.gz",

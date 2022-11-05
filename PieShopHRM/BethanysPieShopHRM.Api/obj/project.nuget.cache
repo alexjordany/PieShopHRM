@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "VDujRRo6Z+/nCMEkRqhDGnNSMIlQd6CCLmL6qM7HXD2oLcqOjDygGUUE6ZV8TJndxQXPfeud6RUrw4f7eGhgqA==",
+  "dgSpecHash": "gUCyhVvwEk8GzpLPra0+egoWi1I7QS3HgImkH5FeAo+WMKTKjUh/NcDN6L7Bmg5Kvb2FbaSxkTR4nO/KQWhGlQ==",
   "success": true,
   "projectFilePath": "/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/BethanysPieShopHRM.Api/BethanysPieShopHRM.Api.csproj",
   "expectedPackageFiles": [
+    "/Users/alexparrales/.nuget/packages/blazored.localstorage/4.2.0/blazored.localstorage.4.2.0.nupkg.sha512",
     "/Users/alexparrales/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/alexparrales/.nuget/packages/microsoft.aspnetcore.authorization/6.0.10/microsoft.aspnetcore.authorization.6.0.10.nupkg.sha512",
     "/Users/alexparrales/.nuget/packages/microsoft.aspnetcore.components/6.0.10/microsoft.aspnetcore.components.6.0.10.nupkg.sha512",
@@ -36,6 +37,7 @@
     "/Users/alexparrales/.nuget/packages/microsoft.extensions.fileproviders.abstractions/6.0.0/microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
     "/Users/alexparrales/.nuget/packages/microsoft.extensions.fileproviders.physical/6.0.0/microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
     "/Users/alexparrales/.nuget/packages/microsoft.extensions.filesystemglobbing/6.0.0/microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
+    "/Users/alexparrales/.nuget/packages/microsoft.extensions.http/6.0.0/microsoft.extensions.http.6.0.0.nupkg.sha512",
     "/Users/alexparrales/.nuget/packages/microsoft.extensions.logging/6.0.0/microsoft.extensions.logging.6.0.0.nupkg.sha512",
     "/Users/alexparrales/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.2/microsoft.extensions.logging.abstractions.6.0.2.nupkg.sha512",
     "/Users/alexparrales/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",

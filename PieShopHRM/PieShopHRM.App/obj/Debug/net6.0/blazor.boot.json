@@ -23,6 +23,7 @@
       "Microsoft.Extensions.FileProviders.Abstractions.dll": "sha256-7PzvEcQvpK1c8tTX9VPI8AF+XrekqbAytNBQXJjvTvQ=",
       "Microsoft.Extensions.FileProviders.Physical.dll": "sha256-sXujvGMZDgBBZ9HqfcEq9XsM0pvwyhPt60NA9qLDzGI=",
       "Microsoft.Extensions.FileSystemGlobbing.dll": "sha256-viiXOG0fwhWobT0TQ1ZOJiZBdRvYRlWbDtjz+6d8sQI=",
+      "Microsoft.Extensions.Http.dll": "sha256-K5\/O91dt69IHKav69ftn+7DKPmnzkipTvwM4Sd4Zres=",
       "Microsoft.Extensions.Logging.dll": "sha256-GDZQCBtVHfrZZ6fL95lGoinLeUWLjQShLbfESwO7mrc=",
       "Microsoft.Extensions.Logging.Abstractions.dll": "sha256-ecZkn3RPZPEwxamP17ECOmKEAvX+KJUgvdYQFderb0U=",
       "Microsoft.Extensions.Options.dll": "sha256-eGESyy9mRu8RcCGajAu4E8nxSmeB5nxiZkFPVaZ5Vl0=",
@@ -197,14 +198,14 @@
       "netstandard.dll": "sha256-+SGdnDhVMiZ9hq0EsYwJ+mcK0odf3bAtXnSKLorGDCs=",
       "System.Private.CoreLib.dll": "sha256-mqfalNg3wC8XHlyA+j5ioNcnc0kt4prNudKdyJoaYaU=",
       "PieShopHRM.Shared.dll": "sha256-AAdFHtGG3agUrQmpvR+4BXgfkqoZX\/nVTj8r9+rijpQ=",
-      "PieShopHRM.App.dll": "sha256-V\/K6A1a69KwaYEum2MtBR2fe53N0XjZsHNnL0P14NIU="
+      "PieShopHRM.App.dll": "sha256-t6RLZ1rAYpA7jS7rQBPL5ovivVYvpLzKQ6h6oQdOvT0="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "PieShopHRM.Shared.pdb": "sha256-kQ70qwebZri4tm80Dxoxjx5c6VjoHU1KOj8wViRA2TQ=",
-      "PieShopHRM.App.pdb": "sha256-PTJyOPIeBU+G7385age4djnVyRyJWqZtIMIFGH2sans="
+      "PieShopHRM.App.pdb": "sha256-251QPNCqNXhcM8bTDrcKxJDeG+7v5rbsq3220Fkw8x4="
     },
     "runtime": {
       "dotnet.6.0.9.s2ane4clbt.js": "sha256-Azk5sbYFVo84h8NpIst9roIPGLH2y8ewQ9SY\/sUHvgs=",

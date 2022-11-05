@@ -822,3 +822,7 @@
 /Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/obj/Debug/net6.0/refint/PieShopHRM.App.dll
 /Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/obj/Debug/net6.0/PieShopHRM.App.pdb
 /Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/obj/Debug/net6.0/ref/PieShopHRM.App.dll
+/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.Http.dll
+/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/bin/Debug/net6.0/wwwroot/_framework/Microsoft.Extensions.Http.dll.gz
+/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/bin/Debug/net6.0/Microsoft.Extensions.Http.dll
+/Users/alexparrales/Projects/PieShopHRM/PieShopHRM/PieShopHRM.App/obj/Debug/net6.0/build-gz/eylQtLEP.gz

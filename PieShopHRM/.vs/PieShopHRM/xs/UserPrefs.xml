@@ -1,18 +1,50 @@
 ﻿<Properties StartupConfiguration="{7FB8A0CB-1063-4FCC-9C71-4840A23E0F0E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="PieShopHRM.App/Program.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.PieShopHRM.App PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BethanysPieShopHRM.Api PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PieShopHRM.App/Services/EmployeeDataService.cs">
     <Files>
       <File FileName="BethanysPieShopHRM.Api/appsettings.json" Line="1" Column="2" />
       <File FileName="BethanysPieShopHRM.Api/Program.cs" Line="30" Column="27" />
       <File FileName="BethanysPieShopHRM.Api/Models/AppDbContext.cs" Line="1" Column="1" />
       <File FileName="BethanysPieShopHRM.Api/Properties/launchSettings.json" Line="1" Column="1" />
-      <File FileName="PieShopHRM.App/Program.cs" Line="16" Column="1" />
+      <File FileName="PieShopHRM.App/Program.cs" Line="17" Column="1" />
+      <File FileName="PieShopHRM.App/Pages/EmployeeOverview.razor.cs" Line="23" Column="1" />
+      <File FileName="PieShopHRM.App/Services/IEmployeeDataService.cs" Line="7" Column="69" />
+      <File FileName="PieShopHRM.App/Services/EmployeeDataService.cs" Line="64" Column="1" />
+      <File FileName="PieShopHRM.App/Pages/EmployeeOverview.razor" Line="31" Column="11" />
+      <File FileName="PieShopHRM.App/Pages/EmployeeDetail.razor" Line="1" Column="1" />
+      <File FileName="PieShopHRM.App/Pages/EmployeeDetail.razor.cs" Line="20" Column="78" />
+      <File FileName="../../../.microsoft/usersecrets/6d66e558-f931-4fae-9f71-f1e1b702b7fc/secrets.json" Line="3" Column="17" />
+      <File FileName="PieShopHRM.App/ApplicationState.cs" Line="5" Column="51" />
+      <File FileName="PieShopHRM.App/Components/InboxCounter.razor" Line="1" Column="28" />
+      <File FileName="PieShopHRM.App/Components/InboxCounter.razor.cs" Line="15" Column="58" />
+      <File FileName="PieShopHRM.App/Components/Widgets/InboxWidget.razor" Line="10" Column="2" />
+      <File FileName="PieShopHRM.App/Components/Widgets/InboxWidget.razor.cs" Line="14" Column="57" />
+      <File FileName="PieShopHRM.App/Shared/MainLayout.razor" Line="22" Column="39" />
+      <File FileName="PieShopHRM.App/Helper/LocalStorageConstants.cs" Line="6" Column="60" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="PieShopHRM" expanded="True">
             <Node name="PieShopHRM.App" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Components" expanded="True">
+                <Node name="Widgets" expanded="True">
+                  <Node name="InboxWidget.razor" expanded="True" />
+                </Node>
+                <Node name="InboxCounter.razor" expanded="True" />
+              </Node>
+              <Node name="Helper" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="EmployeeDataService.cs" selected="True" />
+              </Node>
+              <Node name="Shared" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -22,12 +54,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.PieShopHRM.App PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.BethanysPieShopHRM.Api PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
